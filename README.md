@@ -1,5 +1,7 @@
 # Convolutional Neural Network for bridge damage detection
 
+# UFRGS - Universidade Federal do Rio Grande do Sul
+
 # **Disciplina: Aprendizado Profundo 02/2023**
 
 Professor:
