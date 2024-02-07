@@ -1,8 +1,8 @@
 # Convolutional Neural Network for bridge damage detection
 
-# UFRGS - Universidade Federal do Rio Grande do Sul
+## UFRGS - Universidade Federal do Rio Grande do Sul
 
-# **Disciplina: Aprendizado Profundo 02/2023**
+### **Disciplina: Aprendizado Profundo 02/2023**
 
 Professor:
 Anderson Rocha Tavares
@@ -15,7 +15,7 @@ Juliano Cardoso
 
 ---
 
-## Detecção de danos estruturais em pontes através de Rede Neurais Artificiais
+### Detecção de danos estruturais em pontes através de Rede Neurais Artificiais
 
 
 
