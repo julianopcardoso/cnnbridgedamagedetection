@@ -10,7 +10,6 @@ Daniele Kauctz,
 Gabriel Beretta,
 Juliano Cardoso
 
-<br>
 
 ---
 
